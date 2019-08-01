@@ -1,1 +1,1 @@
-# MLND-Project-2-ImageClassifier
+# MLND-Project-2-Image-Classifier
